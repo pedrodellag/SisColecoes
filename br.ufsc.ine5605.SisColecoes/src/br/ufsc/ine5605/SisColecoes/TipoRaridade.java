@@ -10,9 +10,9 @@ public enum TipoRaridade {
      * @author Guilherme
      * @author Pedro
      */
-    COMUM("raridade Comum"),
-    INCOMUM("raridade Incomum"),
-    RARO("raridade Rara");
+    COMUM("Raridade Comum"),
+    INCOMUM("Raridade Incomum"),
+    RARO("Raridade Rara");
 
     public String tipoDaRaridade;
 
